@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Louis subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Journal" title="Journal">
+            <outline type="rss" text="Nature Structural &amp; Molecular Biology" title="Nature Structural &amp; Molecular Biology" xmlUrl="http://feeds.nature.com/nsmb/rss/aop" htmlUrl="http://www.nature.com/nsmb/current_issue/"/>
+        </outline>
+        <outline text="math" title="math">
+            <outline type="rss" text="Gowers's Weblog" title="Gowers's Weblog" xmlUrl="http://gowers.wordpress.com/feed/" htmlUrl="https://gowers.wordpress.com"/>
+        </outline>
+        <outline text="Journals" title="Journals">
+            <outline type="rss" text="Nature Nanotechnology - AOP" title="Nature Nanotechnology - AOP" xmlUrl="http://feeds.nature.com/nnano/rss/aop" htmlUrl="http://www.nature.com/nnano/current_issue/"/>
+            <outline type="rss" text="PLOS ONE Cell Biology" title="PLOS ONE Cell Biology" xmlUrl="http://www.plosone.org/article/feed/search?unformattedQuery=subject%3A%22Cell+biology%22&amp;sort=Date%2C+newest+first"/>
+            <outline type="rss" text="BBA Bioenergetics" title="BBA Bioenergetics" xmlUrl="http://rss.sciencedirect.com/publication/science/00052728" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Journal of Bioscience and Bioengineering" title="Journal of Bioscience and Bioengineering" xmlUrl="http://rss.sciencedirect.com/publication/science/13891723" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Peptides" title="Peptides" xmlUrl="http://rss.sciencedirect.com/publication/science/01969781" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Journal of Molecular Biology" title="Journal of Molecular Biology" xmlUrl="http://rss.sciencedirect.com/publication/science/00222836" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="European Journal of Cancer" title="European Journal of Cancer" xmlUrl="http://rss.sciencedirect.com/publication/science/09598049" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Cell Cycle" title="Cell Cycle" xmlUrl="https://www.landesbioscience.com/rss/journals/cc/current/" htmlUrl="http://www.landesbioscience.com/journals/cc/"/>
+            <outline type="rss" text="Biochemistry (ACS)" title="Biochemistry (ACS)" xmlUrl="http://feeds.feedburner.com/acs/bichaw" htmlUrl="http://pubs.acs.org"/>
+            <outline type="rss" text="Nuclear Medicine and Biology" title="Nuclear Medicine and Biology" xmlUrl="http://rss.sciencedirect.com/publication/science/09698051" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Trends In Genetics" title="Trends In Genetics" xmlUrl="http://www.cell.com/rssFeed/genetics/rss.NewArticles.xml" htmlUrl="http://www.cell.com/archive?publicationCode=tigs&amp;rss=yes"/>
+            <outline type="rss" text="The Journal of Physical Chemistry B: Latest Articles" title="The Journal of Physical Chemistry B: Latest Articles" xmlUrl="http://feeds.feedburner.com/acs/jpcbfk" htmlUrl="http://pubs.acs.org"/>
+            <outline type="rss" text="Nature Scientific Reports" title="Nature Scientific Reports" xmlUrl="http://feeds.nature.com/srep/rss/current" htmlUrl="http://www.nature.com/srep/rss/latest"/>
+            <outline type="rss" text="Molecular Plant" title="Molecular Plant" xmlUrl="http://mplant.oxfordjournals.org/rss/current.xml" htmlUrl="http://mplant.oxfordjournals.org"/>
+            <outline type="rss" text="Plant Signaling &amp; Behavior" title="Plant Signaling &amp; Behavior" xmlUrl="https://www.landesbioscience.com/rss/journals/psb/current/" htmlUrl="http://www.landesbioscience.com/journals/psb/"/>
+            <outline type="rss" text="Biomatter" title="Biomatter" xmlUrl="https://www.landesbioscience.com/rss/journals/biomatter/current/" htmlUrl="http://www.landesbioscience.com/journals/biomatter/"/>
+            <outline type="rss" text="Nutrition Research" title="Nutrition Research" xmlUrl="http://rss.sciencedirect.com/publication/science/02715317" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="BBA Lipid Molecular and Cell Biology" title="BBA Lipid Molecular and Cell Biology" xmlUrl="http://rss.sciencedirect.com/publication/science/13881981" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Nature Nanotechnology" title="Nature Nanotechnology" xmlUrl="http://www.nature.com/nnano/current_issue/rss/" htmlUrl="http://www.nature.com/nnano/current_issue/"/>
+            <outline type="rss" text="BBA Biomembranes" title="BBA Biomembranes" xmlUrl="http://rss.sciencedirect.com/publication/science/00052736" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="G3: Genes, Genomes, Genetics" title="G3: Genes, Genomes, Genetics" xmlUrl="http://g3journal.org/rss/current.xml" htmlUrl="http://www.g3journal.org"/>
+            <outline type="rss" text="DNA Research" title="DNA Research" xmlUrl="http://dnaresearch.oxfordjournals.org/rss/current.xml" htmlUrl="http://dnaresearch.oxfordjournals.org"/>
+            <outline type="rss" text="Prion" title="Prion" xmlUrl="https://www.landesbioscience.com/rss/journals/prion/current/" htmlUrl="http://www.landesbioscience.com/journals/prion/"/>
+            <outline type="rss" text="RSC Advances" title="RSC Advances" xmlUrl="http://feeds.rsc.org/rss/ra" htmlUrl="http://pubs.rsc.org/en/Journals/Journal/RA"/>
+            <outline type="rss" text="EMBO Reports" title="EMBO Reports" xmlUrl="http://www.nature.com/embor/journal/vaop/ncurrent/rss.rdf" htmlUrl="http://www.nature.com/embor/current_issue/"/>
+            <outline type="rss" text="Nature Genetics - Issue - nature..." title="Nature Genetics - Issue - nature..." xmlUrl="http://feeds.nature.com/ng/rss/current" htmlUrl="http://www.nature.com/ng/current_issue/"/>
+            <outline type="rss" text="The EMBO Journal - Issue - natur..." title="The EMBO Journal - Issue - natur..." xmlUrl="http://feeds.nature.com/emboj/rss/current" htmlUrl="http://www.nature.com/emboj/current_issue/"/>
+            <outline type="rss" text="Stem Cell Research" title="Stem Cell Research" xmlUrl="http://rss.sciencedirect.com/publication/science/18735061" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="ScienceDirect Publication" title="ScienceDirect Publication" xmlUrl="http://rss.sciencedirect.com/publication/science/00275107" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Genes &amp; Development current issue" title="Genes &amp; Development current issue" xmlUrl="http://genesdev.cshlp.org/rss/current.xml" htmlUrl="http://genesdev.cshlp.org"/>
+            <outline type="rss" text="Nature Chemistry and Biology" title="Nature Chemistry and Biology" xmlUrl="http://www.cell.com/rssFeed/chemistry-biology/rss.mostread.xml" htmlUrl="http://www.cell.com/chemistry-biology/mostread"/>
+            <outline type="rss" text="BBA Molecular Basis of Disease" title="BBA Molecular Basis of Disease" xmlUrl="http://rss.sciencedirect.com/publication/science/09254439" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="CELL" title="CELL" xmlUrl="http://www.cell.com/rssFeed/Cell/rss.NewIssueAndArticles.xml" htmlUrl="http://www.cell.com/current"/>
+            <outline type="rss" text="Biochemistry and Molecular Biology (Comparative Biochemistry and Physiology)" title="Biochemistry and Molecular Biology (Comparative Biochemistry and Physiology)" xmlUrl="http://rss.sciencedirect.com/publication/science/10964959" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Nature Reviews Molecular Cell Bi..." title="Nature Reviews Molecular Cell Bi..." xmlUrl="http://feeds.nature.com/nrm/rss/current" htmlUrl="http://www.nature.com/nrm/current_issue/"/>
+            <outline type="rss" text="Human Molecular Genetics" title="Human Molecular Genetics" xmlUrl="http://hmg.oxfordjournals.org/rss/current.xml" htmlUrl="http://hmg.oxfordjournals.org"/>
+            <outline type="rss" text="Cancer Genetics" title="Cancer Genetics" xmlUrl="http://rss.sciencedirect.com/publication/science/22107762" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Nature Communications" title="Nature Communications" xmlUrl="http://feeds.nature.com/ncomms/rss/current" htmlUrl="http://www.nature.com/ncomms/rss/current"/>
+            <outline type="rss" text="Channels" title="Channels" xmlUrl="https://www.landesbioscience.com/rss/journals/channels/current/" htmlUrl="http://www.landesbioscience.com/journals/channels/"/>
+            <outline type="rss" text="JCB" title="JCB" xmlUrl="http://jcb-biowrites.rupress.org/atom.xml" htmlUrl="http://jcb-biowrites.rupress.org/"/>
+            <outline type="rss" text="Cancer Biology &amp; Therapy" title="Cancer Biology &amp; Therapy" xmlUrl="https://www.landesbioscience.com/rss/journals/cbt/current/" htmlUrl="http://www.landesbioscience.com/journals/cbt/"/>
+            <outline type="rss" text="Mol. BioSyst." title="Mol. BioSyst." xmlUrl="http://feeds.rsc.org/rss/MB" htmlUrl="http://pubs.rsc.org/en/Journals/Journal/MB"/>
+            <outline type="rss" text="PLoS Computational Biology: New Articles" title="PLoS Computational Biology: New Articles" xmlUrl="http://compbiol.plosjournals.org/perlserv/?request=get-rss&amp;issn=1553-7358&amp;type=new-articles"/>
+            <outline type="rss" text="Epigenetics Ahead of Print" title="Epigenetics Ahead of Print" xmlUrl="http://www.landesbioscience.com/rss/journals/epigenetics/aop/" htmlUrl="http://www.landesbioscience.com/journals/epigenetics/"/>
+            <outline type="rss" text="Genomics and Proteomics (Comparative Biochemistry and Physiology)" title="Genomics and Proteomics (Comparative Biochemistry and Physiology)" xmlUrl="http://rss.sciencedirect.com/publication/science/1744117X" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Nature Communications" title="Nature Communications" xmlUrl="http://www.nature.com/ncomms/rss/all_index.rdf" htmlUrl="http://www.nature.com/ncomms/archive/date.html"/>
+            <outline type="rss" text="Frontiers in Bioengineering and Biotechnology" title="Frontiers in Bioengineering and Biotechnology" xmlUrl="http://feedity.com/frontiersin-org/VlJSV1dT.rss" htmlUrl="http://www.frontiersin.org/Bioengineering_and_Biotechnology"/>
+            <outline type="rss" text="Epigenetics" title="Epigenetics" xmlUrl="https://www.landesbioscience.com/rss/journals/epigenetics/current/" htmlUrl="http://www.landesbioscience.com/journals/epigenetics/"/>
+            <outline type="rss" text="Photochemistry and Photobiology" title="Photochemistry and Photobiology" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1751-1097" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291751-1097"/>
+            <outline type="rss" text="Genome Biol Evol: Most-Read Full..." title="Genome Biol Evol: Most-Read Full..." xmlUrl="http://gbe.oxfordjournals.org/rss/mfr.xml" htmlUrl="http://gbe.oxfordjournals.org/"/>
+            <outline type="rss" text="Journal of Inorganic Biochemistry" title="Journal of Inorganic Biochemistry" xmlUrl="http://rss.sciencedirect.com/publication/science/01620134" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="European Journal of Cell Biology" title="European Journal of Cell Biology" xmlUrl="http://rss.sciencedirect.com/publication/science/01719335" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Journal of Chemical Neuroanatomy" title="Journal of Chemical Neuroanatomy" xmlUrl="http://rss.sciencedirect.com/publication/science/08910618" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Nature Chemical Biology - AOP - nat..." title="Nature Chemical Biology - AOP - nat..." xmlUrl="http://feeds.nature.com/nchembio/rss/aop" htmlUrl="http://www.nature.com/nchembio/current_issue/"/>
+            <outline type="rss" text="Cell Stem Cell" title="Cell Stem Cell" xmlUrl="http://rss.sciencedirect.com/publication/science/19345909" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="CSH Perspectives" title="CSH Perspectives" xmlUrl="http://cshperspectives.cshlp.org/rss/current.xml" htmlUrl="http://cshperspectives.cshlp.org"/>
+            <outline type="rss" text="Life Sciences" title="Life Sciences" xmlUrl="http://rss.sciencedirect.com/publication/science/00243205" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Science Signaling Podcast" title="Science Signaling Podcast" xmlUrl="http://stke.sciencemag.org/rss/podcast.xml" htmlUrl="http://stke.sciencemag.org/rss/podcast.xml"/>
+            <outline type="rss" text="Org. Biomol. Chem." title="Org. Biomol. Chem." xmlUrl="http://feeds.rsc.org/rss/OB" htmlUrl="http://pubs.rsc.org/en/Journals/Journal/OB"/>
+            <outline type="rss" text="Chemical Senses" title="Chemical Senses" xmlUrl="http://chemse.oxfordjournals.org/rss/current.xml" htmlUrl="http://chemse.oxfordjournals.org"/>
+            <outline type="rss" text="Journal of the History of Medicine" title="Journal of the History of Medicine" xmlUrl="http://jhmas.oxfordjournals.org/rss/current.xml" htmlUrl="http://jhmas.oxfordjournals.org"/>
+            <outline type="rss" text="Mathematical Medicine and Biology" title="Mathematical Medicine and Biology" xmlUrl="http://imammb.oxfordjournals.org/rss/current.xml" htmlUrl="http://imammb.oxfordjournals.org"/>
+            <outline type="rss" text="Molecular Genetics and Metabolism" title="Molecular Genetics and Metabolism" xmlUrl="http://rss.sciencedirect.com/publication/science/10967192" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Nature Structural &amp; Molecular Bi..." title="Nature Structural &amp; Molecular Bi..." xmlUrl="http://feeds.nature.com/nsmb/rss/current" htmlUrl="http://www.nature.com/nsmb/current_issue/"/>
+            <outline type="rss" text="ACS Nano" title="ACS Nano" xmlUrl="http://feeds.feedburner.com/acs/ancac3" htmlUrl="http://pubs.acs.org"/>
+            <outline type="rss" text="Translation" title="Translation" xmlUrl="https://www.landesbioscience.com/rss/journals/translation/current/" htmlUrl="http://www.landesbioscience.com/journals/translation/"/>
+            <outline type="rss" text="BJ Gene" title="BJ Gene" xmlUrl="http://www.biochemj.org/bj/rss/imps_4.xml" htmlUrl="http://www.biochemj.org"/>
+            <outline type="rss" text="Metabolic Engineering" title="Metabolic Engineering" xmlUrl="http://rss.sciencedirect.com/publication/science/10967176" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="International Journal of Biological Macromolecules" title="International Journal of Biological Macromolecules" xmlUrl="http://rss.sciencedirect.com/publication/science/01418130" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="BJ Disease" title="BJ Disease" xmlUrl="http://www.biochemj.org/bj/rss/imps_3.xml" htmlUrl="http://www.biochemj.org"/>
+            <outline type="rss" text="The Journals of Gerontology" title="The Journals of Gerontology" xmlUrl="http://biomedgerontology.oxfordjournals.org/rss/current.xml" htmlUrl="http://biomedgerontology.oxfordjournals.org"/>
+            <outline type="rss" text="CSH Perspectives in Medicine" title="CSH Perspectives in Medicine" xmlUrl="http://www.perspectivesinmedicine.org/rss/current.xml" htmlUrl="http://perspectivesinmedicine.cshlp.org"/>
+            <outline type="rss" text="BBA Proteins and Proteomics" title="BBA Proteins and Proteomics" xmlUrl="http://rss.sciencedirect.com/publication/science/15709639" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Plasmid" title="Plasmid" xmlUrl="http://rss.sciencedirect.com/publication/science/0147619X" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="ACS Chemical Biology: Latest Articles" title="ACS Chemical Biology: Latest Articles" xmlUrl="http://feeds.feedburner.com/acs/acbcct" htmlUrl="http://pubs.acs.org"/>
+            <outline type="rss" text="Annual Review of Chemical and Biomolecular Engineering" title="Annual Review of Chemical and Biomolecular Engineering" xmlUrl="http://www.annualreviews.org/action/showFeed?ui=45mu4&amp;mi=3fndc3&amp;ai=68uv&amp;jc=chembioeng&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.annualreviews.org/loi/chembioeng?ai=68uv&amp;mi=3fndc3&amp;af=R"/>
+            <outline type="rss" text="Cellular and ..." title="Cellular and ..." xmlUrl="http://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=18&amp;channel-name=Cellular%20and%20Molecular%20Life%20Sciences" htmlUrl="http://link.springer.com"/>
+            <outline type="rss" text="Current Opinion in Biotechnology" title="Current Opinion in Biotechnology" xmlUrl="http://rss.sciencedirect.com/publication/science/09581669" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="International Review of Cell and Molecular Biology" title="International Review of Cell and Molecular Biology" xmlUrl="http://rss.sciencedirect.com/publication/science/19376448" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="IntraVital" title="IntraVital" xmlUrl="https://www.landesbioscience.com/rss/journals/intravital/current/" htmlUrl="http://www.landesbioscience.com/journals/intravital/"/>
+            <outline type="rss" text="Nature Nanotechnology - Issue - ..." title="Nature Nanotechnology - Issue - ..." xmlUrl="http://feeds.nature.com/nnano/rss/current" htmlUrl="http://www.nature.com/nnano/current_issue/"/>
+            <outline type="rss" text="BJ ChemBio" title="BJ ChemBio" xmlUrl="http://www.biochemj.org/bj/rss/imps_9.xml" htmlUrl="http://www.biochemj.org"/>
+            <outline type="rss" text="Gut Microbes" title="Gut Microbes" xmlUrl="https://www.landesbioscience.com/rss/journals/gutmicrobes/current/" htmlUrl="http://www.landesbioscience.com/journals/gutmicrobes/"/>
+            <outline type="rss" text="Nature Reviews Cancer - Issue - ..." title="Nature Reviews Cancer - Issue - ..." xmlUrl="http://feeds.nature.com/nrc/rss/current" htmlUrl="http://www.nature.com/nrc/current_issue/"/>
+            <outline type="rss" text="Tissue Barriers" title="Tissue Barriers" xmlUrl="https://www.landesbioscience.com/rss/journals/tissuebarriers/current/" htmlUrl="http://www.landesbioscience.com/journals/tissuebarriers/"/>
+            <outline type="rss" text="PNAS" title="PNAS" xmlUrl="http://feeds.feedburner.com/pnas/SMZM" htmlUrl="http://www.pnas.org"/>
+            <outline type="rss" text="Chemico-Biological Interactions" title="Chemico-Biological Interactions" xmlUrl="http://rss.sciencedirect.com/publication/science/00092797" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Nature Chemistry" title="Nature Chemistry" xmlUrl="http://www.nature.com/nchem/current_issue/rss" htmlUrl="http://www.nature.com/nchem/current_issue/"/>
+            <outline type="rss" text="Biochemical Engineering Journal" title="Biochemical Engineering Journal" xmlUrl="http://rss.sciencedirect.com/publication/science/1369703X" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Frontiers in Oncology" title="Frontiers in Oncology" xmlUrl="http://feedity.com/frontiersin-org/UFZXVVVS.rss" htmlUrl="http://www.frontiersin.org/oncology"/>
+            <outline type="rss" text="Journal of Genetics and Genomics" title="Journal of Genetics and Genomics" xmlUrl="http://rss.sciencedirect.com/publication/science/16738527" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="bioRxiv : Bioinformatics" title="bioRxiv : Bioinformatics" xmlUrl="http://hwmaint.biorxiv.highwire.org/cgi/collection/rss?coll_alias=bioinformatics" htmlUrl="http://biorxiv.org"/>
+            <outline type="rss" text="Journal of Human Genetics" title="Journal of Human Genetics" xmlUrl="http://www.nature.com/jhg/current_issue/rss" htmlUrl="http://www.nature.com/jhg/current_issue/"/>
+            <outline type="rss" text="Nanomedicine" title="Nanomedicine" xmlUrl="http://rss.sciencedirect.com/publication/science/15499634" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="RSC - Dalton Trans. latest artic..." title="RSC - Dalton Trans. latest artic..." xmlUrl="http://feeds.rsc.org/rss/DT" htmlUrl="http://pubs.rsc.org/en/Journals/Journal/DT"/>
+            <outline type="rss" text="Frontiers in Physiology" title="Frontiers in Physiology" xmlUrl="http://feedity.com/frontiersin-org/UFZXVVZX.rss" htmlUrl="http://www.frontiersin.org/physiology"/>
+            <outline type="rss" text="Ultramicroscopy" title="Ultramicroscopy" xmlUrl="http://rss.sciencedirect.com/publication/science/03043991" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Biomater. Sci." title="Biomater. Sci." xmlUrl="http://feeds.rsc.org/rss/BM" htmlUrl="http://pubs.rsc.org/en/Journals/Journal/BM"/>
+            <outline type="rss" text="Frontiers in Neuroscience" title="Frontiers in Neuroscience" xmlUrl="http://feedity.com/frontiersin-org/UFZXVVdQ.rss" htmlUrl="http://www.frontiersin.org/neuroscience"/>
+            <outline type="rss" text="Biophysical Chemistry" title="Biophysical Chemistry" xmlUrl="http://rss.sciencedirect.com/publication/science/03014622" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Advances in Biological Regulation" title="Advances in Biological Regulation" xmlUrl="http://rss.sciencedirect.com/publication/science/22124926" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Prostaglandins &amp; Other Lipid Mediators" title="Prostaglandins &amp; Other Lipid Mediators" xmlUrl="http://rss.sciencedirect.com/publication/science/10988823" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Soft Matter" title="Soft Matter" xmlUrl="http://feeds.rsc.org/rss/SM" htmlUrl="http://pubs.rsc.org/en/Journals/Journal/SM"/>
+            <outline type="rss" text="PLOS Biology" title="PLOS Biology" xmlUrl="http://biology.plosjournals.org/perlserv/?request=get-rss&amp;issn=1545-7885&amp;type=new-articles"/>
+            <outline type="rss" text="Mutation Research/Reviews in Mutation Research" title="Mutation Research/Reviews in Mutation Research" xmlUrl="http://rss.sciencedirect.com/publication/science/13835742" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Nature Methods - Issue - nature...." title="Nature Methods - Issue - nature...." xmlUrl="http://feeds.nature.com/nmeth/rss/current" htmlUrl="http://www.nature.com/nmeth/current_issue/"/>
+            <outline type="rss" text="Autophagy" title="Autophagy" xmlUrl="https://www.landesbioscience.com/rss/journals/autophagy/current/" htmlUrl="http://www.landesbioscience.com/journals/autophagy/"/>
+            <outline type="rss" text="The International Journal of Biochemistry &amp; Cell Biology" title="The International Journal of Biochemistry &amp; Cell Biology" xmlUrl="http://rss.sciencedirect.com/publication/science/13572725" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Nature News &amp; Comment" title="Nature News &amp; Comment" xmlUrl="http://feeds.nature.com/NatureNewsComment" htmlUrl="http://www.nature.com/nature/rdf/newsandcomment/newsandcomment"/>
+            <outline type="rss" text="CELL REPORTS" title="CELL REPORTS" xmlUrl="http://www.cell.com/rssFeed/cell-reports/rss.NewIssueAndArticles.xml" htmlUrl="http://www.cell.com/cell-reports/current"/>
+            <outline type="rss" text="Molecular Biology and Evolution ..." title="Molecular Biology and Evolution ..." xmlUrl="http://mbe.oxfordjournals.org/rss/current.xml" htmlUrl="http://mbe.oxfordjournals.org"/>
+            <outline type="rss" text="European Physical Journal E: Soft Matter and Biological Physics" title="European Physical Journal E: Soft Matter and Biological Physics" xmlUrl="http://www.edpsciences.org/articles/epje/rss/TOCRSS/rss.xml" htmlUrl="http://epje.epj.org"/>
+            <outline type="rss" text="Gene" title="Gene" xmlUrl="http://rss.sciencedirect.com/publication/science/03781119" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Briefings in Bioinformatics" title="Briefings in Bioinformatics" xmlUrl="http://bib.oxfordjournals.org/rss/current.xml" htmlUrl="http://bib.oxfordjournals.org"/>
+            <outline type="rss" text="Gene Regulatory Mechanisms" title="Gene Regulatory Mechanisms" xmlUrl="http://rss.sciencedirect.com/publication/science/18749399" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Research in Microbiology" title="Research in Microbiology" xmlUrl="http://rss.sciencedirect.com/publication/science/09232508" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="bioRxiv : Biochemistry" title="bioRxiv : Biochemistry" xmlUrl="http://hwmaint.biorxiv.highwire.org/cgi/collection/rss?coll_alias=biochemistry" htmlUrl="http://biorxiv.org"/>
+            <outline type="rss" text="Systematic Biology - current issue" title="Systematic Biology - current issue" xmlUrl="http://sysbio.oxfordjournals.org/rss/current.xml" htmlUrl="http://sysbio.oxfordjournals.org"/>
+            <outline type="rss" text="Fly" title="Fly" xmlUrl="https://www.landesbioscience.com/rss/journals/fly/current/" htmlUrl="http://www.landesbioscience.com/journals/fly/"/>
+            <outline type="rss" text="Current Opinion in Chemical Biology" title="Current Opinion in Chemical Biology" xmlUrl="http://rss.sciencedirect.com/publication/science/13675931" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Current Biology" title="Current Biology" xmlUrl="http://rss.sciencedirect.com/publication/science/09609822" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="BJ Energy" title="BJ Energy" xmlUrl="http://www.biochemj.org/bj/rss/imps_1.xml" htmlUrl="http://www.biochemj.org"/>
+            <outline type="rss" text="Islets" title="Islets" xmlUrl="https://www.landesbioscience.com/rss/journals/islets/current/" htmlUrl="http://www.landesbioscience.com/journals/islets/"/>
+            <outline type="rss" text="J. Mater. Chem. Biol." title="J. Mater. Chem. Biol." xmlUrl="http://feeds.rsc.org/rss/tb" htmlUrl="http://pubs.rsc.org/en/Journals/Journal/TB"/>
+            <outline type="rss" text="ACS Synthetic Biology" title="ACS Synthetic Biology" xmlUrl="http://feeds.feedburner.com/acs/asbcd6" htmlUrl="http://pubs.acs.org"/>
+            <outline type="rss" text="Virology Journal" title="Virology Journal" xmlUrl="http://www.virologyj.com/rss/" htmlUrl="http://www.virologyj.com"/>
+            <outline type="rss" text="Regulatory Peptides" title="Regulatory Peptides" xmlUrl="http://rss.sciencedirect.com/publication/science/01670115" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Journal of Molecular Catalysis: Enzymatic" title="Journal of Molecular Catalysis: Enzymatic" xmlUrl="http://rss.sciencedirect.com/publication/science/13811177" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Journal of Thermal Biology" title="Journal of Thermal Biology" xmlUrl="http://rss.sciencedirect.com/publication/science/03064565" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Virulence" title="Virulence" xmlUrl="https://www.landesbioscience.com/rss/journals/virulence/current/" htmlUrl="http://www.landesbioscience.comjournals/virulence/"/>
+            <outline type="rss" text="Free Radical Biology and Medicine" title="Free Radical Biology and Medicine" xmlUrl="http://rss.sciencedirect.com/publication/science/08915849" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="bioRxiv : Genetics" title="bioRxiv : Genetics" xmlUrl="http://hwmaint.biorxiv.highwire.org/cgi/collection/rss?coll_alias=genetics" htmlUrl="http://biorxiv.org"/>
+            <outline type="rss" text="ILAR Journal" title="ILAR Journal" xmlUrl="http://ilarjournal.oxfordjournals.org/rss/current.xml" htmlUrl="http://ilarjournal.oxfordjournals.org"/>
+            <outline type="rss" text="Cell Metabolism" title="Cell Metabolism" xmlUrl="http://rss.sciencedirect.com/publication/science/15504131" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Frontiers in Physics" title="Frontiers in Physics" xmlUrl="http://feedity.com/frontiersin-org/VlJRV1tQ.rss" htmlUrl="http://www.frontiersin.org/Physics"/>
+            <outline type="rss" text="Genomics, Proteomics &amp; Bioinformatics" title="Genomics, Proteomics &amp; Bioinformatics" xmlUrl="http://rss.sciencedirect.com/publication/science/16720229" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Prostaglandins, Leukotrienes and Essential Fatty Acids (PLEFA)" title="Prostaglandins, Leukotrienes and Essential Fatty Acids (PLEFA)" xmlUrl="http://rss.sciencedirect.com/publication/science/09523278" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Nature - Issue - nature.com scie..." title="Nature - Issue - nature.com scie..." xmlUrl="http://feeds.nature.com/nature/rss/current" htmlUrl="http://www.nature.com/nature/current_issue/"/>
+            <outline type="rss" text="Biomolecular Engineering" title="Biomolecular Engineering" xmlUrl="http://rss.sciencedirect.com/publication/science/13890344" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Journal of Photochemistry and Photobiology" title="Journal of Photochemistry and Photobiology" xmlUrl="http://rss.sciencedirect.com/publication/science/10111344" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Translational Proteomics" title="Translational Proteomics" xmlUrl="http://rss.sciencedirect.com/publication/science/22129634" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Nature Chemical Biology - Issue - n..." title="Nature Chemical Biology - Issue - n..." xmlUrl="http://www.nature.com/nchembio/current_issue/rss/" htmlUrl="http://www.nature.com/nchembio/current_issue/"/>
+            <outline type="rss" text="Current Opinion in Cell Biology" title="Current Opinion in Cell Biology" xmlUrl="http://rss.sciencedirect.com/publication/science/09550674" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Bull. London Math. Soc.: Most Read" title="Bull. London Math. Soc.: Most Read" xmlUrl="http://blms.oxfordjournals.org/rss/mfr.xml" htmlUrl="http://blms.oxfordjournals.org/"/>
+            <outline type="rss" text="ScienceDirect Publication: Journal of Structural Biology" title="ScienceDirect Publication: Journal of Structural Biology" xmlUrl="http://rss.sciencedirect.com/publication/science/10478477" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Cell" title="Cell" xmlUrl="http://rss.sciencedirect.com/publication/science/00928674" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Worm" title="Worm" xmlUrl="https://www.landesbioscience.com/rss/journals/worm/current/" htmlUrl="http://www.landesbioscience.com/journals/worm/"/>
+            <outline type="rss" text="Journal of Biotechnology" title="Journal of Biotechnology" xmlUrl="http://rss.sciencedirect.com/publication/science/01681656" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="bioRxiv : Molecular Biology" title="bioRxiv : Molecular Biology" xmlUrl="http://hwmaint.biorxiv.highwire.org/cgi/collection/rss?coll_alias=molecular_biology" htmlUrl="http://biorxiv.org"/>
+            <outline type="rss" text="mAbs" title="mAbs" xmlUrl="https://www.landesbioscience.com/rss/journals/mabs/current/" htmlUrl="http://www.landesbioscience.com/journals/mabs/"/>
+            <outline type="rss" text="BJ Signal" title="BJ Signal" xmlUrl="http://www.biochemj.org/bj/rss/imps_7.xml" htmlUrl="http://www.biochemj.org"/>
+            <outline type="rss" text="Journal of Proteome Research: Latest Articles" title="Journal of Proteome Research: Latest Articles" xmlUrl="http://feeds.feedburner.com/acs/jprobs" htmlUrl="http://pubs.acs.org"/>
+            <outline type="rss" text="Journal of Biochemistry" title="Journal of Biochemistry" xmlUrl="http://jb.oxfordjournals.org/rss/current.xml" htmlUrl="http://jb.oxfordjournals.org"/>
+            <outline type="rss" text="Nature Reviews Microbiology - Is..." title="Nature Reviews Microbiology - Is..." xmlUrl="http://feeds.nature.com/nrmicro/rss/current" htmlUrl="http://www.nature.com/nrmicro/current_issue/"/>
+            <outline type="rss" text="Traffic" title="Traffic" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1600-0854" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291600-0854"/>
+            <outline type="rss" text="Bacteriophage" title="Bacteriophage" xmlUrl="https://www.landesbioscience.com/rss/journals/bacteriophage/current/" htmlUrl="http://www.landesbioscience.com/journals/bacteriophage/"/>
+            <outline type="rss" text="The FASEB Journal" title="The FASEB Journal" xmlUrl="http://www.fasebj.org/rss/current.xml" htmlUrl="http://www.fasebj.org"/>
+            <outline type="rss" text="Acta Biochimica et Biophysica Sinica" title="Acta Biochimica et Biophysica Sinica" xmlUrl="http://abbs.oxfordjournals.org/rss/current.xml" htmlUrl="http://abbs.oxfordjournals.org"/>
+            <outline type="rss" text="Genetics Research" title="Genetics Research" xmlUrl="http://journals.cambridge.org/data/rss/feed_GRH_rss_2.0.xml" htmlUrl="http://journals.cambridge.org/action/displayJournal?jid=GRH"/>
+            <outline type="rss" text="Annual Review of Biomedical Engineering" title="Annual Review of Biomedical Engineering" xmlUrl="http://www.annualreviews.org/action/showFeed?ui=45mu4&amp;mi=3fndc3&amp;ai=sb&amp;jc=bioeng&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.annualreviews.org/loi/bioeng?ai=sb&amp;mi=3fndc3&amp;af=R"/>
+            <outline type="rss" text="Proteins: Structure, Function, and Bioinformatics" title="Proteins: Structure, Function, and Bioinformatics" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1097-0134" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F%28ISSN%291097-0134"/>
+            <outline type="rss" text="RNA" title="RNA" xmlUrl="http://rnajournal.cshlp.org/rss/current.xml" htmlUrl="http://rnajournal.cshlp.org"/>
+            <outline type="rss" text="Mutagenesis" title="Mutagenesis" xmlUrl="http://mutage.oxfordjournals.org/rss/current.xml" htmlUrl="http://mutage.oxfordjournals.org"/>
+            <outline type="rss" text="Database" title="Database" xmlUrl="http://database.oxfordjournals.org/rss/current.xml" htmlUrl="http://database.oxfordjournals.org"/>
+            <outline type="rss" text="Enzyme and Microbial Technology" title="Enzyme and Microbial Technology" xmlUrl="http://rss.sciencedirect.com/publication/science/01410229" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="FEBS Open Bio" title="FEBS Open Bio" xmlUrl="http://rss.sciencedirect.com/publication/science/22115463" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Cell" title="Cell" xmlUrl="http://www.cell.com/cell/current.rss" htmlUrl="http://www.cell.com/archive?publicationCode=cell&amp;rss=yes"/>
+            <outline type="rss" text="MOLECULAR CELL" title="MOLECULAR CELL" xmlUrl="http://www.cell.com/rssFeed/molecular-cell/rss.NewIssueAndArticles.xml" htmlUrl="http://www.cell.com/molecular-cell/current"/>
+            <outline type="rss" text="WIREs Computational Molecular Science" title="WIREs Computational Molecular Science" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1759-0884" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291759-0884"/>
+            <outline type="rss" text="Small GTPases" title="Small GTPases" xmlUrl="https://www.landesbioscience.com/rss/journals/smallgtpases/current/" htmlUrl="http://www.landesbioscience.com/journals/smallgtpases/"/>
+            <outline type="rss" text="Science" title="Science" xmlUrl="http://www.sciencemag.org/rss/current.xml" htmlUrl="http://www.sciencemag.org"/>
+            <outline type="rss" text="BBA Molecular Cell Research" title="BBA Molecular Cell Research" xmlUrl="http://rss.sciencedirect.com/publication/science/01674889" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Biomacromolecules" title="Biomacromolecules" xmlUrl="http://feeds.feedburner.com/acs/bomaf6" htmlUrl="http://pubs.acs.org"/>
+            <outline type="rss" text="Current Opinion in Structural Biology" title="Current Opinion in Structural Biology" xmlUrl="http://rss.sciencedirect.com/publication/science/0959440X" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="BJ Biomolecules" title="BJ Biomolecules" xmlUrl="http://www.biochemj.org/bj/rss/imps_5.xml" htmlUrl="http://www.biochemj.org"/>
+            <outline type="rss" text="Intrinsically Disordered Proteins" title="Intrinsically Disordered Proteins" xmlUrl="http://landesbioscience.com/rss/journals/idp/current/"/>
+            <outline type="rss" text="Schizophrenia Bulletin" title="Schizophrenia Bulletin" xmlUrl="http://schizophreniabulletin.oxfordjournals.org/rss/mfr.xml" htmlUrl="http://schizophreniabulletin.oxfordjournals.org/"/>
+            <outline type="rss" text="Network Science" title="Network Science" xmlUrl="http://journals.cambridge.org/data/rss/aggregated/feed_25081_rss.xml" htmlUrl="http://journals.cambridge.org/action/browseJournalsAlphabetically"/>
+            <outline type="rss" text="The FASEB Journal Preprints" title="The FASEB Journal Preprints" xmlUrl="http://www.fasebj.org/rss/ahead.xml" htmlUrl="http://www.fasebj.org"/>
+            <outline type="rss" text="Epigenetics" title="Epigenetics" xmlUrl="http://www.landesbioscience.com/rss/journals/epigenetics/current/" htmlUrl="http://www.landesbioscience.com/journals/epigenetics/"/>
+            <outline type="rss" text="Glycobiology" title="Glycobiology" xmlUrl="http://glycob.oxfordjournals.org/rss/current.xml" htmlUrl="http://glycob.oxfordjournals.org"/>
+            <outline type="rss" text="Protein Expression and Purification" title="Protein Expression and Purification" xmlUrl="http://rss.sciencedirect.com/publication/science/10465928" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Biochimie" title="Biochimie" xmlUrl="http://rss.sciencedirect.com/publication/science/03009084" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Spermatogenesis" title="Spermatogenesis" xmlUrl="https://www.landesbioscience.com/rss/journals/spermatogenesis/current/" htmlUrl="http://www.landesbioscience.com/journals/spermatogenesis/"/>
+            <outline type="rss" text="Progress in Biophysics and Molecular Biology" title="Progress in Biophysics and Molecular Biology" xmlUrl="http://rss.sciencedirect.com/publication/science/00796107" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Progress in Lipid Research" title="Progress in Lipid Research" xmlUrl="http://rss.sciencedirect.com/publication/science/01637827" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Computational Biology and Chemistry" title="Computational Biology and Chemistry" xmlUrl="http://rss.sciencedirect.com/publication/science/14769271" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Gene Expression Patterns" title="Gene Expression Patterns" xmlUrl="http://rss.sciencedirect.com/publication/science/1567133X" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Current Problems in Cancer" title="Current Problems in Cancer" xmlUrl="http://rss.sciencedirect.com/publication/science/01470272" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Bioscience Horizons" title="Bioscience Horizons" xmlUrl="http://biohorizons.oxfordjournals.org/rss/current.xml" htmlUrl="http://biohorizons.oxfordjournals.org"/>
+            <outline type="rss" text="bioRxiv : Systems Biology" title="bioRxiv : Systems Biology" xmlUrl="http://hwmaint.biorxiv.highwire.org/cgi/collection/rss?coll_alias=systems_biology" htmlUrl="http://biorxiv.org"/>
+            <outline type="rss" text="Frontiers in Microbiology" title="Frontiers in Microbiology" xmlUrl="http://feedity.com/frontiersin-org/UFZXVVdS.rss" htmlUrl="http://www.frontiersin.org/microbiology"/>
+            <outline type="rss" text="WIREs Membrane Transport and Signaling" title="WIREs Membrane Transport and Signaling" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)2190-4618" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F%28ISSN%292190-4618"/>
+            <outline type="rss" text="bioRxiv : Biophysics" title="bioRxiv : Biophysics" xmlUrl="http://hwmaint.biorxiv.highwire.org/cgi/collection/rss?coll_alias=biophysics" htmlUrl="http://biorxiv.org"/>
+            <outline type="rss" text="WIREs Water" title="WIREs Water" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)2049-1948" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F%28ISSN%292049-1948"/>
+            <outline type="rss" text="GM Crops and Food: Biotechnology in Agriculture and the Food Chain" title="GM Crops and Food: Biotechnology in Agriculture and the Food Chain" xmlUrl="https://www.landesbioscience.com/rss/journals/gmcrops/current/" htmlUrl="http://www.landesbioscience.com/journals/gmcrops/"/>
+            <outline type="rss" text="Biosystems" title="Biosystems" xmlUrl="http://rss.sciencedirect.com/publication/science/03032647" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="DNA Repair" title="DNA Repair" xmlUrl="http://rss.sciencedirect.com/publication/science/15687864" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Annual Review of Microbiology" title="Annual Review of Microbiology" xmlUrl="http://www.annualreviews.org/action/showFeed?ui=45mu4&amp;mi=3fndc3&amp;ai=sn&amp;jc=micro&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.annualreviews.org/loi/micro?ai=sn&amp;mi=3fndc3&amp;af=R"/>
+            <outline type="rss" text="Annual Review of Cell and Developmental Biology" title="Annual Review of Cell and Developmental Biology" xmlUrl="http://www.annualreviews.org/action/showFeed?ui=45mu4&amp;mi=3fndc3&amp;ai=sg&amp;jc=cellbio&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.annualreviews.org/loi/cellbio?ai=sg&amp;mi=3fndc3&amp;af=R"/>
+            <outline type="rss" text="Quarterly Reviews of Biophysics" title="Quarterly Reviews of Biophysics" xmlUrl="http://journals.cambridge.org/data/rss/feed_QRB_rss_2.0.xml" htmlUrl="http://journals.cambridge.org/action/displayJournal?jid=QRB"/>
+            <outline type="rss" text="Cancer Cell" title="Cancer Cell" xmlUrl="http://rss.sciencedirect.com/publication/science/15356108" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Archives of Biochemistry and Biophysics" title="Archives of Biochemistry and Biophysics" xmlUrl="http://rss.sciencedirect.com/publication/science/00039861" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Nature News Blog" title="Nature News Blog" xmlUrl="http://blogs.nature.com/news/feed" htmlUrl="http://blogs.nature.com/news"/>
+            <outline type="rss" text="BioArchitecture" title="BioArchitecture" xmlUrl="https://www.landesbioscience.com/rss/journals/BioArchitecture/current/" htmlUrl="http://www.landesbioscience.com/journals/BioArchitecture/"/>
+            <outline type="rss" text="Artificial DNA: PNA &amp; XNA" title="Artificial DNA: PNA &amp; XNA" xmlUrl="https://www.landesbioscience.com/rss/journals/artificialdna/current/" htmlUrl="http://www.landesbioscience.com/journals/artificialdna/"/>
+            <outline type="rss" text="Tissue and Cell" title="Tissue and Cell" xmlUrl="http://rss.sciencedirect.com/publication/science/00408166" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Trends In Biotechnology" title="Trends In Biotechnology" xmlUrl="http://www.cell.com/rssFeed/biotechnology/rss.NewArticles.xml" htmlUrl="http://www.cell.com/archive?publicationCode=tibtec&amp;rss=yes"/>
+            <outline type="rss" text="Nature Cell Biology - Issue - na..." title="Nature Cell Biology - Issue - na..." xmlUrl="http://feeds.nature.com/ncb/rss/current" htmlUrl="http://www.nature.com/ncb/current_issue/"/>
+            <outline type="rss" text="PLOS Genetics: New Articles" title="PLOS Genetics: New Articles" xmlUrl="http://www.plosgenetics.org/article/feed"/>
+            <outline type="rss" text="Schizophrenia Bulletin" title="Schizophrenia Bulletin" xmlUrl="http://schizophreniabulletin.oxfordjournals.org/rss/current.xml" htmlUrl="http://schizophreniabulletin.oxfordjournals.org"/>
+            <outline type="rss" text="Genome Research" title="Genome Research" xmlUrl="http://genome.cshlp.org/rss/current.xml" htmlUrl="http://genome.cshlp.org"/>
+            <outline type="rss" text="bioRxiv : Genomics" title="bioRxiv : Genomics" xmlUrl="http://hwmaint.biorxiv.highwire.org/cgi/collection/rss?coll_alias=genomics" htmlUrl="http://biorxiv.org"/>
+            <outline type="rss" text="Int J Biochem Mol Biol (Pubmed)" title="Int J Biochem Mol Biol (Pubmed)" xmlUrl="http://www.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1-ONS2P_EKb5Hzz2-aGVbMCP0oAK8pNb3evSHBJuV6IZw7d9qE" htmlUrl="http://www.ncbi.nlm.nih.gov/sites/entrez?cmd=Search&amp;db=PubMed&amp;term=int%20j%20biochem%20mol%20biol"/>
+            <outline type="rss" text="RNA Biology" title="RNA Biology" xmlUrl="https://www.landesbioscience.com/rss/journals/rnabiology/current/" htmlUrl="http://www.landesbioscience.com/journals/rnabiology/"/>
+            <outline type="rss" text="Journal of Genetic Engineering" title="Journal of Genetic Engineering" xmlUrl="http://rss.sciencedirect.com/publication/science/1687157X" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Trends In Biochemical Sciences" title="Trends In Biochemical Sciences" xmlUrl="http://www.cell.com/rssFeed/biochemical-sciences/rss.NewArticles.xml" htmlUrl="http://www.cell.com/archive?publicationCode=tibs&amp;rss=yes"/>
+            <outline type="rss" text="Redox Biology" title="Redox Biology" xmlUrl="http://rss.sciencedirect.com/publication/science/22132317" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Lipid Chemistry and Physics" title="Lipid Chemistry and Physics" xmlUrl="http://rss.sciencedirect.com/publication/science/00093084" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Math Med Biol: Most-Read" title="Math Med Biol: Most-Read" xmlUrl="http://imammb.oxfordjournals.org/rss/mfr.xml" htmlUrl="http://imammb.oxfordjournals.org/"/>
+            <outline type="rss" text="Journal of Cell Science" title="Journal of Cell Science" xmlUrl="http://jcs.biologists.org/rss/current.xml" htmlUrl="http://jcs.biologists.org"/>
+            <outline type="rss" text="MMBR" title="MMBR" xmlUrl="http://mmbr.asm.org/rss/current.xml" htmlUrl="http://mmbr.asm.org"/>
+            <outline type="rss" text="BJ Plant" title="BJ Plant" xmlUrl="http://www.biochemj.org/bj/rss/imps_6.xml" htmlUrl="http://www.biochemj.org"/>
+            <outline type="rss" text="BIOPHYSICAL JOURNAL" title="BIOPHYSICAL JOURNAL" xmlUrl="http://www.cell.com/rssFeed/biophysj/rss.NewIssueAndArticles.xml" htmlUrl="http://www.cell.com/biophysj/current"/>
+            <outline type="rss" text="Annual Review of Biophysics" title="Annual Review of Biophysics" xmlUrl="http://www.annualreviews.org/action/showFeed?ui=45mu4&amp;mi=3fndc3&amp;ai=s7&amp;jc=biophys&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.annualreviews.org/loi/biophys?ai=s7&amp;mi=3fndc3&amp;af=R"/>
+            <outline type="rss" text="Bioconjugate Chemistry" title="Bioconjugate Chemistry" xmlUrl="http://feeds.feedburner.com/acs/bcches" htmlUrl="http://pubs.acs.org"/>
+            <outline type="rss" text="Carcinogenesis" title="Carcinogenesis" xmlUrl="http://carcin.oxfordjournals.org/rss/current.xml" htmlUrl="http://carcin.oxfordjournals.org"/>
+            <outline type="rss" text="BJ Metabolism" title="BJ Metabolism" xmlUrl="http://www.biochemj.org/bj/rss/imps_10.xml" htmlUrl="http://www.biochemj.org"/>
+            <outline type="rss" text="Annual Review of Animal Biosciences" title="Annual Review of Animal Biosciences" xmlUrl="http://www.annualreviews.org/action/showFeed?ui=45mu4&amp;mi=3fndc3&amp;ai=6690&amp;jc=animal&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.annualreviews.org/loi/animal?ai=6690&amp;mi=3fndc3&amp;af=R"/>
+            <outline type="rss" text="Systematic Biology - Advance Access" title="Systematic Biology - Advance Access" xmlUrl="http://sysbio.oxfordjournals.org/rss/ahead.xml" htmlUrl="http://sysbio.oxfordjournals.org"/>
+            <outline type="rss" text="The American Journal of Human Genetics" title="The American Journal of Human Genetics" xmlUrl="http://rss.sciencedirect.com/publication/science/00029297" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Biostatistics: Most-Read" title="Biostatistics: Most-Read" xmlUrl="http://biostatistics.oxfordjournals.org/rss/mfr.xml" htmlUrl="http://biostatistics.oxfordjournals.org/"/>
+            <outline type="rss" text="Nutrition" title="Nutrition" xmlUrl="http://rss.sciencedirect.com/publication/science/08999007" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Annu. Rep. Prog. Chem." title="Annu. Rep. Prog. Chem." xmlUrl="http://feeds.rsc.org/rss/OC" htmlUrl="http://pubs.rsc.org/en/Journals/Journal/OC"/>
+            <outline type="rss" text="WIRES Nanomedicine and Nanobiotechnology" title="WIRES Nanomedicine and Nanobiotechnology" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1939-0041" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F%28ISSN%291939-0041"/>
+            <outline type="rss" text="RNA (Advance)" title="RNA (Advance)" xmlUrl="http://rnajournal.cshlp.org/rss/ahead.xml" htmlUrl="http://rnajournal.cshlp.org"/>
+            <outline type="rss" text="Mobile Genetic Elements" title="Mobile Genetic Elements" xmlUrl="https://www.landesbioscience.com/rss/journals/mge/current/" htmlUrl="http://www.landesbioscience.com/journals/mge/"/>
+            <outline type="rss" text="Biochemical and Biophysical Research Communications" title="Biochemical and Biophysical Research Communications" xmlUrl="http://rss.sciencedirect.com/publication/science/0006291X" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Nature - AOP" title="Nature - AOP" xmlUrl="http://feeds.nature.com/nature/rss/aop" htmlUrl="http://www.nature.com/nature/current_issue/"/>
+            <outline type="rss" text="WIREs RNA" title="WIREs RNA" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1757-7012" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F%28ISSN%291757-7012"/>
+            <outline type="rss" text="FEBS Letters" title="FEBS Letters" xmlUrl="http://www.febsletters.org/current.rss" htmlUrl="http://www.febsletters.org/issues?publicationCode=febs&amp;rss=yes"/>
+            <outline type="rss" text="Structure" title="Structure" xmlUrl="http://rss.sciencedirect.com/publication/science/09692126" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Med. Chem. Commun." title="Med. Chem. Commun." xmlUrl="http://feeds.rsc.org/rss/MD" htmlUrl="http://pubs.rsc.org/en/Journals/Journal/MD"/>
+            <outline type="rss" text="Science Translational Medicine" title="Science Translational Medicine" xmlUrl="http://stm.sciencemag.org/rss/current.xml" htmlUrl="http://stm.sciencemag.org"/>
+            <outline type="rss" text="Science Signaling" title="Science Signaling" xmlUrl="http://stke.sciencemag.org/rss/current.xml" htmlUrl="http://stke.sciencemag.org/"/>
+            <outline type="rss" text="Process Biochemistry" title="Process Biochemistry" xmlUrl="http://rss.sciencedirect.com/publication/science/13595113" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="bioRxiv : Cancer Biology" title="bioRxiv : Cancer Biology" xmlUrl="http://hwmaint.biorxiv.highwire.org/cgi/collection/rss?coll_alias=cancer_biology" htmlUrl="http://biorxiv.org"/>
+            <outline type="rss" text="Bioelectrochemistry" title="Bioelectrochemistry" xmlUrl="http://rss.sciencedirect.com/publication/science/15675394" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="WIRES Systems Biology and Medicine" title="WIRES Systems Biology and Medicine" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1939-005X" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F%28ISSN%291939-005X"/>
+            <outline type="rss" text="eLife recent issues" title="eLife recent issues" xmlUrl="http://elife.elifesciences.org/rss/recent.xml" htmlUrl="http://elife.elifesciences.org"/>
+            <outline type="rss" text="Genomics" title="Genomics" xmlUrl="http://rss.sciencedirect.com/publication/science/08887543" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="PNAS AOP" title="PNAS AOP" xmlUrl="http://feeds.feedburner.com/Pnas-RssFeedOfEarlyEditionArticles" htmlUrl="http://www.pnas.org"/>
+            <outline type="rss" text="Chem. Soc. Rev." title="Chem. Soc. Rev." xmlUrl="http://feeds.rsc.org/rss/CS" htmlUrl="http://pubs.rsc.org/en/Journals/Journal/CS"/>
+            <outline type="rss" text="Chem. Commun." title="Chem. Commun." xmlUrl="http://feeds.rsc.org/rss/CC" htmlUrl="http://pubs.rsc.org/en/Journals/Journal/CC"/>
+            <outline type="rss" text="Bioinformatics" title="Bioinformatics" xmlUrl="http://bioinformatics.oxfordjournals.org/rss/current.xml" htmlUrl="http://bioinformatics.oxfordjournals.org"/>
+            <outline type="rss" text="Journal of General Physiology" title="Journal of General Physiology" xmlUrl="http://jgp.rupress.org/rss/ahead.xml" htmlUrl="http://jgp.rupress.org"/>
+            <outline type="rss" text="Journal of Biochemistry" title="Journal of Biochemistry" xmlUrl="http://jb.oxfordjournals.org/rss/ahead.xml" htmlUrl="http://jb.oxfordjournals.org"/>
+            <outline type="rss" text="Stem Cell Reports" title="Stem Cell Reports" xmlUrl="http://rss.sciencedirect.com/publication/science/22136711" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Cell Adhesion &amp; Migration" title="Cell Adhesion &amp; Migration" xmlUrl="https://www.landesbioscience.com/rss/journals/celladhesion/current/" htmlUrl="http://www.landesbioscience.com/journals/celladhesion/"/>
+            <outline type="rss" text="BBA Reviews on Cancer" title="BBA Reviews on Cancer" xmlUrl="http://rss.sciencedirect.com/publication/science/0304419X" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Nucleus" title="Nucleus" xmlUrl="https://www.landesbioscience.com/rss/journals/nucleus/current/" htmlUrl="http://www.landesbioscience.com/journals/nucleus/"/>
+            <outline type="rss" text="The EMBO Journal - AOP - nature.com science feeds" title="The EMBO Journal - AOP - nature.com science feeds" xmlUrl="http://www.nature.com/emboj/journal/vaop/ncurrent/rss.rdf" htmlUrl="http://www.nature.com/emboj/current_issue/"/>
+            <outline type="rss" text="Matrix Biology" title="Matrix Biology" xmlUrl="http://rss.sciencedirect.com/publication/science/0945053X" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Integr. Biol." title="Integr. Biol." xmlUrl="http://feeds.rsc.org/rss/IB" htmlUrl="http://pubs.rsc.org/en/Journals/Journal/IB"/>
+            <outline type="rss" text="Transcription" title="Transcription" xmlUrl="https://www.landesbioscience.com/rss/journals/transcription/current/" htmlUrl="http://www.landesbioscience.com/journals/transcription/"/>
+            <outline type="rss" text="Annual Review of Biochemistry" title="Annual Review of Biochemistry" xmlUrl="http://www.annualreviews.org/action/showFeed?ui=45mu4&amp;mi=3fndc3&amp;ai=se&amp;jc=biochem&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.annualreviews.org/loi/biochem?ai=se&amp;mi=3fndc3&amp;af=R"/>
+            <outline type="rss" text="OncoImmunology" title="OncoImmunology" xmlUrl="https://www.landesbioscience.com/rss/journals/oncoimmunology/current/" htmlUrl="http://www.landesbioscience.com/journals/oncoimmunology/"/>
+            <outline type="rss" text="Annual Review of Genetics" title="Annual Review of Genetics" xmlUrl="http://www.annualreviews.org/action/showFeed?ui=45mu4&amp;mi=3fndc3&amp;ai=sj&amp;jc=genet&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.annualreviews.org/loi/genet?ai=sj&amp;mi=3fndc3&amp;af=R"/>
+            <outline type="rss" text="The Journal of Physical Chemistry A: Latest Articles" title="The Journal of Physical Chemistry A: Latest Articles" xmlUrl="http://feeds.feedburner.com/acs/jpcafh" htmlUrl="http://pubs.acs.org"/>
+            <outline type="rss" text="Chimerism" title="Chimerism" xmlUrl="https://www.landesbioscience.com/rss/journals/chimerism/current/" htmlUrl="http://www.landesbioscience.com/journals/chimerism/"/>
+            <outline type="rss" text="Communicative &amp; Integrative Biology" title="Communicative &amp; Integrative Biology" xmlUrl="https://www.landesbioscience.com/rss/journals/cib/current/" htmlUrl="http://www.landesbioscience.com/journals/cib/"/>
+            <outline type="rss" text="New Biotechnology" title="New Biotechnology" xmlUrl="http://rss.sciencedirect.com/publication/science/18716784" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Journal of Experimental Medicine" title="Journal of Experimental Medicine" xmlUrl="http://jem.rupress.org/rss/ahead.xml" htmlUrl="http://jem.rupress.org"/>
+            <outline type="rss" text="Experimental Cell Research" title="Experimental Cell Research" xmlUrl="http://rss.sciencedirect.com/publication/science/00144827" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="WIRES Developmental Biology" title="WIRES Developmental Biology" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1759-7692" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291759-7692"/>
+            <outline type="rss" text="Photochem. Photobiol. Sci." title="Photochem. Photobiol. Sci." xmlUrl="http://feeds.rsc.org/rss/PP" htmlUrl="http://pubs.rsc.org/en/Journals/Journal/PP"/>
+            <outline type="rss" text="Bioengineered" title="Bioengineered" xmlUrl="https://www.landesbioscience.com/rss/journals/bioe/current/" htmlUrl="http://www.landesbioscience.com/journals/bioe/"/>
+            <outline type="rss" text="Briefings in Functional Genomics" title="Briefings in Functional Genomics" xmlUrl="http://bfg.oxfordjournals.org/rss/current.xml" htmlUrl="http://bfg.oxfordjournals.org"/>
+            <outline type="rss" text="Journal of Biological Chemistry current issue" title="Journal of Biological Chemistry current issue" xmlUrl="http://www.jbc.org/rss/current.xml" htmlUrl="http://www.jbc.org"/>
+            <outline type="rss" text="EMBO reports - Issue - nature.co..." title="EMBO reports - Issue - nature.co..." xmlUrl="http://feeds.nature.com/embor/rss/current" htmlUrl="http://www.nature.com/embor/current_issue/"/>
+            <outline type="rss" text="Journal of Medicine and Philosophy" title="Journal of Medicine and Philosophy" xmlUrl="http://jmp.oxfordjournals.org/rss/current.xml" htmlUrl="http://jmp.oxfordjournals.org"/>
+            <outline type="rss" text="Environ. Sci. Nano" title="Environ. Sci. Nano" xmlUrl="http://feeds.rsc.org/rss/en" htmlUrl="http://pubs.rsc.org/en/Journals/Journal/EN"/>
+            <outline type="rss" text="PLOS ONE Biochemistry" title="PLOS ONE Biochemistry" xmlUrl="http://www.plosone.org/article/feed/search?unformattedQuery=subject%3A%22Biochemistry%22&amp;sort=Date%2C+newest+first"/>
+            <outline type="rss" text="Journal of Molecular Cell Biology" title="Journal of Molecular Cell Biology" xmlUrl="http://jmcb.oxfordjournals.org/rss/current.xml" htmlUrl="http://jmcb.oxfordjournals.org"/>
+            <outline type="rss" text="Human Vaccines &amp; Immunotherapeutics" title="Human Vaccines &amp; Immunotherapeutics" xmlUrl="https://www.landesbioscience.com/rss/journals/vaccines/current/" htmlUrl="http://www.landesbioscience.com/journals/vaccines/"/>
+            <outline type="rss" text="Integrative and Comparative Biology" title="Integrative and Comparative Biology" xmlUrl="http://icb.oxfordjournals.org/rss/current.xml" htmlUrl="http://icb.oxfordjournals.org"/>
+            <outline type="rss" text="Cellular Logistics" title="Cellular Logistics" xmlUrl="https://www.landesbioscience.com/rss/journals/cellularlogistics/current/" htmlUrl="http://www.landesbioscience.comjournals/cellularlogistics/"/>
+            <outline type="rss" text="Seminars in Cancer Biology" title="Seminars in Cancer Biology" xmlUrl="http://rss.sciencedirect.com/publication/science/1044579X" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Expert Reviews in Molecular Medicine" title="Expert Reviews in Molecular Medicine" xmlUrl="http://journals.cambridge.org/data/rss/feed_ERM_rss_2.0.xml" htmlUrl="http://journals.cambridge.org/action/displayJournal?jid=ERM"/>
+            <outline type="rss" text="Cold Spring Harbor Symposia on Quantitative Biology" title="Cold Spring Harbor Symposia on Quantitative Biology" xmlUrl="http://symposium.cshlp.org/rss/current.xml" htmlUrl="http://symposium.cshlp.org"/>
+            <outline type="rss" text="Nature Reviews Genetics - Issue ..." title="Nature Reviews Genetics - Issue ..." xmlUrl="http://feeds.nature.com/nrg/rss/current" htmlUrl="http://www.nature.com/nrg/current_issue/"/>
+            <outline type="rss" text="Trends In Molecular Medicine" title="Trends In Molecular Medicine" xmlUrl="http://www.cell.com/rssFeed/molecular-medicine/rss.NewArticles.xml" htmlUrl="http://www.cell.com/archive?publicationCode=trmome&amp;rss=yes"/>
+            <outline type="rss" text="Biochemistry and Cell Biology (NRC)" title="Biochemistry and Cell Biology (NRC)" xmlUrl="http://www.nrcresearchpress.com/action/showFeed?ui=1ab&amp;mi=3b2pbw&amp;ai=rw&amp;jc=bcb&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.nrcresearchpress.com/loi/bcb?ai=rw&amp;mi=3b2pbw&amp;af=R"/>
+            <outline type="rss" text="Current Opinion in Genetics" title="Current Opinion in Genetics" xmlUrl="http://rss.sciencedirect.com/publication/science/0959437X" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="BJ Cell" title="BJ Cell" xmlUrl="http://www.biochemj.org/bj/rss/imps_2.xml" htmlUrl="http://www.biochemj.org"/>
+            <outline type="rss" text="Genes &amp; Development (Advance)" title="Genes &amp; Development (Advance)" xmlUrl="http://genesdev.cshlp.org/rss/ahead.xml" htmlUrl="http://genesdev.cshlp.org"/>
+            <outline type="rss" text="Helvetica Chimica Acta" title="Helvetica Chimica Acta" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1522-2675" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F%28ISSN%291522-2675"/>
+            <outline type="rss" text="Seminars in Cell &amp; Developmental Biology" title="Seminars in Cell &amp; Developmental Biology" xmlUrl="http://rss.sciencedirect.com/publication/science/10849521" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Genome Biology and Evolution" title="Genome Biology and Evolution" xmlUrl="http://gbe.oxfordjournals.org/rss/current.xml" htmlUrl="http://gbe.oxfordjournals.org"/>
+            <outline type="rss" text="Chemistry and Biology" title="Chemistry and Biology" xmlUrl="http://rss.sciencedirect.com/publication/science/10745521" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Electrophoresis" title="Electrophoresis" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1522-2683" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F%28ISSN%291522-2683"/>
+            <outline type="rss" text="Journal of Biochemical and Biophysical Methods" title="Journal of Biochemical and Biophysical Methods" xmlUrl="http://rss.sciencedirect.com/publication/science/0165022X" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Frontiers in Pharmacology" title="Frontiers in Pharmacology" xmlUrl="http://feedity.com/frontiersin-org/UFZXVVdW.rss" htmlUrl="http://www.frontiersin.org/pharmacology"/>
+            <outline type="rss" text="Mitochondrion" title="Mitochondrion" xmlUrl="http://rss.sciencedirect.com/publication/science/15677249" htmlUrl="http://www.sciencedirect.com"/>
+        </outline>
+        <outline text="Technology News" title="Technology News">
+            <outline type="rss" text="Chrome OS - Google News" title="Chrome OS - Google News" xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=chrome%20os&amp;um=1&amp;ie=UTF-8&amp;output=rss" htmlUrl="http://news.google.com/news?gl=us&amp;pz=1&amp;ned=us&amp;hl=en&amp;q=chrome+os"/>
+            <outline type="rss" text="The Verge Chrome &amp; Chrome OS" title="The Verge Chrome &amp; Chrome OS" xmlUrl="http://www.rssmix.com/u/3775113/rss.xml" htmlUrl="http://www.rssmix.com/"/>
+            <outline type="rss" text="A Fresh Cup" title="A Fresh Cup" xmlUrl="http://afreshcup.com/home/rss.xml" htmlUrl="http://afreshcup.com/home/"/>
+            <outline type="rss" text="R-bloggers" title="R-bloggers" xmlUrl="http://feeds.feedburner.com/RBloggers" htmlUrl="http://www.r-bloggers.com"/>
+        </outline>
+        <outline text="Scientific news and blogs" title="Scientific news and blogs">
+            <outline type="rss" text="Athene Donald" title="Athene Donald" xmlUrl="http://occamstypewriter.org/athenedonald/feed/" htmlUrl="http://occamstypewriter.org/athenedonald"/>
+            <outline type="rss" text="The OpenHelix Blog" title="The OpenHelix Blog" xmlUrl="http://www.openhelix.com/blog/?feed=rss2" htmlUrl="http://blog.openhelix.eu"/>
+            <outline type="rss" text="froggleston" title="froggleston" xmlUrl="http://froggleston.wordpress.com/feed/" htmlUrl="http://froggleston.wordpress.com"/>
+            <outline type="rss" text="Chemical Quantum Images" title="Chemical Quantum Images" xmlUrl="http://chemical-quantum-images.blogspot.com/feeds/posts/default" htmlUrl="http://chemical-quantum-images.blogspot.com/"/>
+            <outline type="rss" text="Razib Khan" title="Razib Khan" xmlUrl="http://feeds.feedburner.com/RazibKhansTotalFeed?format=xml" htmlUrl="http://www.razib.com/wordpress"/>
+            <outline type="rss" text="gg" title="gg" xmlUrl="http://gilest.ro/feed/" htmlUrl="http://gilest.ro"/>
+            <outline type="rss" text="DNA Science Blog" title="DNA Science Blog" xmlUrl="http://blogs.plos.org/dnascience/feed/" htmlUrl="http://blogs.plos.org/dnascience"/>
+            <outline type="rss" text="Chemistry World" title="Chemistry World" xmlUrl="http://www.rsc.org/chemistryworld/cwlatestnews.xml" htmlUrl="http://www.rsc.org/chemistryworld/"/>
+            <outline type="rss" text="Henry Rzepa" title="Henry Rzepa" xmlUrl="http://www.ch.imperial.ac.uk/rzepa/blog/?feed=rss2" htmlUrl="http://www.ch.imperial.ac.uk/rzepa/blog"/>
+            <outline type="rss" text="Sandwalk" title="Sandwalk" xmlUrl="http://feeds.feedburner.com/Sandwalk.blogspot.com" htmlUrl="http://sandwalk.blogspot.com/"/>
+            <outline type="rss" text="Illumina" title="Illumina" xmlUrl="http://feeds.feedburner.com/illumina/MlKj" htmlUrl="http://blog.illumina.com/"/>
+            <outline type="rss" text="Deciphering life: One bit at a time" title="Deciphering life: One bit at a time" xmlUrl="http://rmflight.github.io/rss.xml" htmlUrl="http://rmflight.github.io"/>
+            <outline type="rss" text="Chemiotics II" title="Chemiotics II" xmlUrl="http://luysii.wordpress.com/feed/" htmlUrl="https://luysii.wordpress.com"/>
+            <outline type="rss" text="bioinformatics and randomness" title="bioinformatics and randomness" xmlUrl="http://searchvoidstar.tumblr.com/rss" htmlUrl="http://searchvoidstar.tumblr.com/"/>
+            <outline type="rss" text="The Loom" title="The Loom" xmlUrl="http://phenomena.nationalgeographic.com/blog/the-loom/feed/" htmlUrl="http://phenomena.nationalgeographic.com/blog/the-loom/"/>
+            <outline type="rss" text="Academic Lifehacker" title="Academic Lifehacker" xmlUrl="http://academiclifehacker.wordpress.com/feed/" htmlUrl="http://academiclifehacker.wordpress.com"/>
+            <outline type="rss" text="MIT SciWrite" title="MIT SciWrite" xmlUrl="http://blogs.plos.org/mitsciwrite/feed/" htmlUrl="http://blogs.plos.org/mitsciwrite"/>
+            <outline type="rss" text="Not ranting - honestly" title="Not ranting - honestly" xmlUrl="http://occamstypewriter.org/notranting/feed/" htmlUrl="http://occamstypewriter.org/notranting"/>
+            <outline type="rss" text="Science:Now (Abid Javed)" title="Science:Now (Abid Javed)" xmlUrl="http://www.abidsbrushstrokes.com/sciencenow/atom.xml" htmlUrl="http://www.abidsbrushstrokes.com/sciencenow/"/>
+            <outline type="rss" text="A life in the biophysics lab" title="A life in the biophysics lab" xmlUrl="http://larsduelund.wordpress.com/feed/" htmlUrl="http://larsduelund.wordpress.com"/>
+            <outline type="rss" text="Soft Machines" title="Soft Machines" xmlUrl="http://www.softmachines.org/wordpress/?feed=rss2" htmlUrl="http://www.softmachines.org/wordpress"/>
+            <outline type="rss" text="Omics! Omics!" title="Omics! Omics!" xmlUrl="http://omicsomics.blogspot.com/feeds/posts/default" htmlUrl="http://omicsomics.blogspot.com/"/>
+            <outline type="rss" text="PLOS Biologue" title="PLOS Biologue" xmlUrl="http://blogs.plos.org/biologue/feed/" htmlUrl="http://blogs.plos.org/biologue"/>
+            <outline type="rss" text="Unreal Nature » Biochemistry" title="Unreal Nature » Biochemistry" xmlUrl="http://unrealnature.wordpress.com/search/biochemistry/feed/rss2/" htmlUrl="http://unrealnature.wordpress.com"/>
+            <outline type="rss" text="Science Ethics" title="Science Ethics" xmlUrl="http://scienceethics.wordpress.com/feed/" htmlUrl="http://scienceethics.wordpress.com"/>
+            <outline type="rss" text="Free Association" title="Free Association" xmlUrl="http://feeds.feedburner.com/ng/rss/free_association" htmlUrl="http://blogs.nature.com/freeassociation"/>
+            <outline type="rss" text="Biochemistry News" title="Biochemistry News" xmlUrl="http://www.topix.com/rss/science/biochemistry" htmlUrl="http://www.topix.com/science/biochemistry"/>
+            <outline type="rss" text="Molecular cytogenetics and genom..." title="Molecular cytogenetics and genom..." xmlUrl="http://molcyt.org/feed/" htmlUrl="http://molcyt.org"/>
+            <outline type="rss" text="DNAcoil.com" title="DNAcoil.com" xmlUrl="http://www.dnacoil.com/feed/" htmlUrl="http://www.dnacoil.com"/>
+            <outline type="rss" text="Philosophy to Chemistry to Elucidation" title="Philosophy to Chemistry to Elucidation" xmlUrl="http://acdlabs.typepad.com/elucidation/atom.xml" htmlUrl="http://acdlabs.typepad.com/elucidation/"/>
+            <outline type="rss" text="B.R.S.M." title="B.R.S.M." xmlUrl="http://brsmblog.com/?feed=rss2" htmlUrl="http://brsmblog.com"/>
+            <outline type="rss" text="Phys.org: Cell &amp; Microbiology" title="Phys.org: Cell &amp; Microbiology" xmlUrl="http://phys.org/rss-feed/biology-news/microbiology/" htmlUrl="http://phys.org/biology-news/microbiology/"/>
+            <outline type="rss" text="Lindau Nobel Online Community » ..." title="Lindau Nobel Online Community » ..." xmlUrl="http://lindau.nature.com/lindau/category/english/feed/" htmlUrl="http://lindau.nature.com/lindau"/>
+            <outline type="rss" text="ScienceDaily: Biochemistry News" title="ScienceDaily: Biochemistry News" xmlUrl="http://feeds.sciencedaily.com/sciencedaily/matter_energy/biochemistry?format=xml" htmlUrl="http://www.sciencedaily.com/news/matter_energy/biochemistry/"/>
+            <outline type="rss" text="The Bayesian kitchen" title="The Bayesian kitchen" xmlUrl="http://bayesiancook.blogspot.com/feeds/posts/default" htmlUrl="http://bayesiancook.blogspot.com/"/>
+            <outline type="rss" text="Water in Biology" title="Water in Biology" xmlUrl="http://waterinbiology.blogspot.com/feeds/posts/default" htmlUrl="http://waterinbiology.blogspot.com/"/>
+            <outline type="rss" text="Adam Byron" title="Adam Byron" xmlUrl="http://adambyron.com/feed/" htmlUrl="http://adambyron.com"/>
+            <outline type="rss" text="Phys.org: Biotechnology" title="Phys.org: Biotechnology" xmlUrl="http://phys.org/rss-feed/biology-news/biotechnology/" htmlUrl="http://phys.org/biology-news/biotechnology/"/>
+            <outline type="rss" text="The Seven Stones" title="The Seven Stones" xmlUrl="http://feeds.feedburner.com/nature_sevenstones" htmlUrl="http://blogs.nature.com/sevenstones"/>
+            <outline type="rss" text="ScienceGeist" title="ScienceGeist" xmlUrl="http://sciencegeist.net/feed/" htmlUrl="http://sciencegeist.net"/>
+            <outline type="rss" text="Cambridge R user group" title="Cambridge R user group" xmlUrl="https://groups.google.com/forum/feed/cambridge-r-user-group/msgs/rss_v2_0.xml?num=50" htmlUrl="https://groups.google.com/d/forum/cambridge-r-user-group"/>
+            <outline type="rss" text="Science Media Centre » Briefings" title="Science Media Centre » Briefings" xmlUrl="http://www.sciencemediacentre.org/?start=0&amp;items=10&amp;cat=3%2C5%2C6%2C7&amp;feed=rss" htmlUrl="http://www.sciencemediacentre.org"/>
+            <outline type="rss" text="Interfacial Digressions" title="Interfacial Digressions" xmlUrl="http://interfacialdigressions.blogspot.com/feeds/posts/default" htmlUrl="http://interfacialdigressions.blogspot.com/"/>
+            <outline type="rss" text="Ever on &amp; on" title="Ever on &amp; on" xmlUrl="http://biochembelle.wordpress.com/feed/" htmlUrl="http://biochembelle.com"/>
+            <outline type="rss" text="Stanford CEHG blog" title="Stanford CEHG blog" xmlUrl="http://stanfordcehg.wordpress.com/feed/" htmlUrl="http://stanfordcehg.wordpress.com"/>
+            <outline type="rss" text="GEN News Feed" title="GEN News Feed" xmlUrl="http://genengnews.com/gen.rss" htmlUrl="http://www.genengnews.com/"/>
+            <outline type="rss" text="The Curious Wavefunction" title="The Curious Wavefunction" xmlUrl="http://feeds.feedburner.com/curiouswavefunction" htmlUrl="http://wavefunction.fieldofscience.com/"/>
+            <outline type="rss" text="Gene Expression" title="Gene Expression" xmlUrl="http://feeds.feedburner.com/GeneExpressionBlog" htmlUrl="http://blogs.discovermagazine.com/gnxp"/>
+            <outline type="rss" text="Trading Knowledge" title="Trading Knowledge" xmlUrl="http://occamstypewriter.org/trading-knowledge/feed/" htmlUrl="http://occamstypewriter.org/trading-knowledge"/>
+            <outline type="rss" text="The Mermaid's Tale" title="The Mermaid's Tale" xmlUrl="http://ecodevoevo.blogspot.com/feeds/posts/default" htmlUrl="http://ecodevoevo.blogspot.com/"/>
+            <outline type="rss" text="Cryptogenomicon" title="Cryptogenomicon" xmlUrl="http://cryptogenomicon.wordpress.com/feed/" htmlUrl="http://cryptogenomicon.wordpress.com"/>
+            <outline type="rss" text="PLOS The Student Blog" title="PLOS The Student Blog" xmlUrl="http://feeds.plos.org/plos/blogs/thestudentblog" htmlUrl="http://blogs.plos.org/thestudentblog"/>
+            <outline type="rss" text="Cryptogenomicon" title="Cryptogenomicon" xmlUrl="http://selab.janelia.org/people/eddys/blog/?feed=rss2" htmlUrl="http://selab.janelia.org/people/eddys/blog"/>
+            <outline type="rss" text="Phys.org: Biochemistry" title="Phys.org: Biochemistry" xmlUrl="http://phys.org/rss-feed/chemistry-news/biochemistry/" htmlUrl="http://phys.org/chemistry-news/biochemistry/"/>
+        </outline>
+        <outline text="Research Institutions" title="Research Institutions">
+            <outline type="rss" text="STFC News" title="STFC News" xmlUrl="http://www.feed43.com/5602131734101363.xml" htmlUrl="http://www.stfc.ac.uk/1803.aspx"/>
+            <outline type="rss" text="Cold Spring Harbor Laboratory Ne..." title="Cold Spring Harbor Laboratory Ne..." xmlUrl="http://labdish.cshl.edu/feed/" htmlUrl="http://labdish.cshl.edu"/>
+            <outline type="rss" text="AMOLF: Latest news" title="AMOLF: Latest news" xmlUrl="http://www.amolf.nl/news/rss.xml" htmlUrl="http://www.amolf.nl/"/>
+            <outline type="rss" text="The Francis Crick Institute RSS ..." title="The Francis Crick Institute RSS ..." xmlUrl="http://www.crick.ac.uk/home/rss" htmlUrl="http://www.crick.ac.uk"/>
+            <outline type="rss" text="BBSRC - News" title="BBSRC - News" xmlUrl="http://feeds.feedburner.com/bbsrc" htmlUrl="http://www.bbsrc.ac.uk"/>
+            <outline type="rss" text="UoOx Department of Biochemistry News" title="UoOx Department of Biochemistry News" xmlUrl="http://rss.oucs.ox.ac.uk/oxitems/generatersstwo2.php?channel_name=bioch/news" htmlUrl="http://www.bioch.ox.ac.uk/"/>
+            <outline type="rss" text="PSI Structural Biology Knowledge Base" title="PSI Structural Biology Knowledge Base" xmlUrl="http://sbkb.org/update/rss.rss" htmlUrl="http://sbkb.org/"/>
+            <outline type="rss" text="News — Department of Biochemistry" title="News — Department of Biochemistry" xmlUrl="http://www.feed43.com/2770264865622015.xml" htmlUrl="http://www.bioc.cam.ac.uk/news"/>
+            <outline type="rss" text="EPFL Life Sciences News" title="EPFL Life Sciences News" xmlUrl="http://www.feed43.com/8281487726611274.xml" htmlUrl="http://actu.epfl.ch/search/sv/"/>
+            <outline type="rss" text="MRC Laboratory of Molecular Biol..." title="MRC Laboratory of Molecular Biol..." xmlUrl="http://www2.mrc-lmb.cam.ac.uk/news-events/insight-on-research/feed/" htmlUrl="http://www2.mrc-lmb.cam.ac.uk"/>
+            <outline type="rss" text="UoM Faculty of Life Sciences" title="UoM Faculty of Life Sciences" xmlUrl="http://www.feed43.com/8376560821682575.xml" htmlUrl="http://www.ls.manchester.ac.uk/research/highlightresearchpublications/"/>
+            <outline type="rss" text="NIMR News" title="NIMR News" xmlUrl="http://feeds.feedburner.com/NimrNewsEvents" htmlUrl="http://www.nimr.mrc.ac.uk/news"/>
+            <outline type="rss" text="MRC Mitochondrial Biology Unit" title="MRC Mitochondrial Biology Unit" xmlUrl="http://www.mrc-mbu.cam.ac.uk/news/rss.xml" htmlUrl="http://www.mrc-mbu.cam.ac.uk/news"/>
+            <outline type="rss" text="Wellcome Trust Sanger Institute Blo..." title="Wellcome Trust Sanger Institute Blo..." xmlUrl="http://sangerinstitute.wordpress.com/feed/" htmlUrl="http://sangerinstitute.wordpress.com"/>
+            <outline type="rss" text="Manchester Institute of Biotechnology" title="Manchester Institute of Biotechnology" xmlUrl="http://www.feed43.com/3364457804740325.xml" htmlUrl="http://www.mib.ac.uk/newsandevents/newsarticles/"/>
+        </outline>
+        <outline text="bioinformatics" title="bioinformatics">
+            <outline type="rss" text="Timely Portfolio" title="Timely Portfolio" xmlUrl="http://timelyportfolio.blogspot.com/feeds/posts/default" htmlUrl="http://timelyportfolio.blogspot.com/"/>
+            <outline type="rss" text="Bits of DNA" title="Bits of DNA" xmlUrl="http://liorpachter.wordpress.com/feed/" htmlUrl="http://liorpachter.wordpress.com"/>
+            <outline type="rss" text="Living in an Ivory Basement" title="Living in an Ivory Basement" xmlUrl="http://ivory.idyll.org/blog/feeds/all.atom.xml" htmlUrl="http://ivory.idyll.org/blog/"/>
+            <outline type="rss" text="What You're Doing Is Rather Desperate" title="What You're Doing Is Rather Desperate" xmlUrl="http://nsaunders.wordpress.com/feed/" htmlUrl="http://nsaunders.wordpress.com"/>
+        </outline>
+        <outline text="Podcasts" title="Podcasts">
+            <outline type="rss" text="Cell PaperClips" title="Cell PaperClips" xmlUrl="http://podcast.cell.com/cellpaperclips.xml" htmlUrl="http://www.cell.com/cellpaperclips"/>
+            <outline type="rss" text="PLOS Podcasts" title="PLOS Podcasts" xmlUrl="http://blogs.plos.org/plospodcasts/feed/" htmlUrl="http://blogs.plos.org/plospodcasts"/>
+            <outline type="rss" text="Chemistry World Podcast" title="Chemistry World Podcast" xmlUrl="http://www.rsc.org/chemistryworld/podcasts/cw_podcast.xml" htmlUrl="http://www.rsc.org/chemistryworld/"/>
+            <outline type="rss" text="Chemistry World : Compounds" title="Chemistry World : Compounds" xmlUrl="http://www.rsc.org/chemistryworld/podcasts/elements_podcast.xml" htmlUrl="http://www.rsc.org/chemistryworld/podcast/CIIEcompound.asp"/>
+            <outline type="rss" text="PNAS Podcasts" title="PNAS Podcasts" xmlUrl="http://feeds.feedburner.com/pnas/uSDM" htmlUrl="http://www.pnas.org/site/misc/pnas_podcast_feed.xml"/>
+        </outline>
+        <outline type="rss" text="Organogenesis" title="Organogenesis" xmlUrl="https://www.landesbioscience.com/rss/journals/organogenesis/current/" htmlUrl="http://www.landesbioscience.com/journals/organogenesis/"/>
+    </body>
+</opml>
